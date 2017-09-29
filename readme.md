@@ -1,5 +1,7 @@
 # Modern JavaScript Cheatsheet
 
+Manojkiran referenced it ,and he feels its a Good reference for very basic understanding
+
 ![Modern JavaScript cheatsheet](https://i.imgur.com/aexPxMb.png)
 <small>Image Credits: [Ahmad Awais ⚡️](https://github.com/ahmadawais)</small>
 
